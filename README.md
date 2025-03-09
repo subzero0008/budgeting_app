@@ -2,7 +2,7 @@
 
 ## Overview
 This is a PHP-based budgeting application that helps users manage their finances by tracking incomes, expenses, and savings goals. Users can register, log in, and input their financial data, which is then calculated and presented to them for better budgeting.
-
+LIVE DEMO: http://yuriev.atwebpages.com/
 ## Features
 - **User Registration & Login**: Secure user authentication system, allowing users to register and access their personal budgeting data.
 - **Income Tracking**: Users can add and manage their income entries with descriptions, amounts, and dates.
